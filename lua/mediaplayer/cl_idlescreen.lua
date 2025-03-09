@@ -84,6 +84,10 @@ local DefaultIdlescreen = [[
 		<p>Hold %s while looking at the media player to reveal the queue menu.</p>
 
 		<div class="metastream">
+			HOW TO SKIP YT ADS: Press C ( your context menu key ), and click on the skip button! :D
+		</div>
+		
+		<div class="metastream">
 			Hey Media Player fans! The creator of this mod is making something new.
 			Check out <span class="metastream-link">getmetastream.com</span>!
 		</div>
